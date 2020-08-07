@@ -2,7 +2,7 @@ package main_test
 
 import (
 	"github.com/aws/aws-lambda-go/events"
-	main "github.com/hackersandslackers/netlify-golang-function-tutorial"
+	main "github.com/hackersandslackers/go-lambda-function-tutorial"
 	"github.com/stretchr/testify/assert"
 	"log"
 	"testing"
